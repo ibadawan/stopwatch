@@ -1,0 +1,60 @@
+
+body{
+  text-align: center;
+  align-items: center;
+  background-color: cadetblue;
+  background-image: url(https://st2.depositphotos.com/4329009/10719/v/950/depositphotos_107196386-stock-illustration-creative-vector-stopwatch-art-illustration.jpg);
+  padding-top: 120px;
+}
+
+
+h1{
+  display: inline-block;
+  background-color: black;
+  color: green;
+  width: 300px;
+  height: 80px;
+  padding-top: 30px;
+  border: none;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+
+}
+
+h2{
+  display: inline-block;
+  background-color:#94AFAA;
+  color: ;
+  width: 100px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+button{
+  background-color:#94AFAA;
+  color: black;
+  font-weight: bolder;
+  width: 100px;
+  height: 40px;
+  margin-bottom: 10px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border: none;
+
+}
+
+
+
+button:hover{
+  background-color: white;
+  cursor: pointer;
+}
+
+input[type=radio]{
+  border: 0px;
+  width: 100%;
+  height: 5em;
+  display: inline-block;
+}
